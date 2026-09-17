@@ -1,0 +1,147 @@
+/* ==========================================
+   REGISTER PAGE
+========================================== */
+
+.register-page {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f5f6fb;
+  padding: 30px;
+  box-sizing: border-box;
+}
+
+.register-container {
+  width: 100%;
+  max-width: 450px;
+  background: #ffffff;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 10px 35px rgba(0, 0, 0, 0.08);
+  box-sizing: border-box;
+}
+
+.register-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.register-header h1 {
+  margin: 0 0 10px;
+  font-size: 32px;
+  color: #222;
+}
+
+.register-header p {
+  margin: 0;
+  color: #777;
+  font-size: 15px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #333;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 13px 15px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  font-size: 15px;
+  outline: none;
+  box-sizing: border-box;
+  transition: 0.2s;
+}
+
+.form-group input:focus {
+  border-color: #7657e8;
+  box-shadow: 0 0 0 3px rgba(118, 87, 232, 0.1);
+}
+
+.register-button {
+  width: 100%;
+  padding: 14px;
+  border: none;
+  border-radius: 10px;
+  background: #7657e8;
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.register-button:hover {
+  background: #6344d1;
+}
+
+.register-button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.register-error {
+  margin-bottom: 18px;
+  padding: 12px;
+  border-radius: 8px;
+  background: #ffe9e9;
+  color: #d93025;
+  font-size: 14px;
+}
+
+.register-success {
+  margin-bottom: 18px;
+  padding: 12px;
+  border-radius: 8px;
+  background: #e9f8ee;
+  color: #218838;
+  font-size: 14px;
+}
+
+.register-footer {
+  text-align: center;
+  margin-top: 25px;
+}
+
+.register-footer p {
+  margin: 0;
+  color: #777;
+  font-size: 14px;
+}
+
+.register-footer a {
+  color: #7657e8;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.register-footer a:hover {
+  text-decoration: underline;
+}
+
+/* ==========================================
+   MOBILE
+========================================== */
+
+@media (max-width: 500px) {
+  .register-page {
+    padding: 20px;
+  }
+
+  .register-container {
+    padding: 30px 22px;
+  }
+
+  .register-header h1 {
+    font-size: 27px;
+  }
+}

@@ -1,0 +1,301 @@
+text,intent
+I am unhappy with the service.,Complaint
+"Hello, I want to complain about my order.",Complaint
+"Dear Team, The product I received is damaged.",Complaint
+My order arrived late. Please help me.,Complaint
+The item I purchased is defective. Thank you.,Complaint
+I received the wrong product.,Complaint
+"Hello, The customer service was very poor.",Complaint
+"Dear Team, I am not satisfied with the product.",Complaint
+I want a refund for the damaged item. Please help me.,Complaint
+My payment was charged twice. Thank you.,Complaint
+I am unhappy with the service.,Complaint
+"Hello, I want to complain about my order.",Complaint
+"Dear Team, The product I received is damaged.",Complaint
+My order arrived late. Please help me.,Complaint
+The item I purchased is defective. Thank you.,Complaint
+I received the wrong product.,Complaint
+"Hello, The customer service was very poor.",Complaint
+"Dear Team, I am not satisfied with the product.",Complaint
+I want a refund for the damaged item. Please help me.,Complaint
+My payment was charged twice. Thank you.,Complaint
+I am unhappy with the service.,Complaint
+"Hello, I want to complain about my order.",Complaint
+"Dear Team, The product I received is damaged.",Complaint
+My order arrived late. Please help me.,Complaint
+The item I purchased is defective. Thank you.,Complaint
+I received the wrong product.,Complaint
+"Hello, The customer service was very poor.",Complaint
+"Dear Team, I am not satisfied with the product.",Complaint
+I want a refund for the damaged item. Please help me.,Complaint
+My payment was charged twice. Thank you.,Complaint
+I am unhappy with the service.,Complaint
+"Hello, I want to complain about my order.",Complaint
+"Dear Team, The product I received is damaged.",Complaint
+My order arrived late. Please help me.,Complaint
+The item I purchased is defective. Thank you.,Complaint
+I received the wrong product.,Complaint
+"Hello, The customer service was very poor.",Complaint
+"Dear Team, I am not satisfied with the product.",Complaint
+I want a refund for the damaged item. Please help me.,Complaint
+My payment was charged twice. Thank you.,Complaint
+I am unhappy with the service.,Complaint
+"Hello, I want to complain about my order.",Complaint
+"Dear Team, The product I received is damaged.",Complaint
+My order arrived late. Please help me.,Complaint
+The item I purchased is defective. Thank you.,Complaint
+I received the wrong product.,Complaint
+"Hello, The customer service was very poor.",Complaint
+"Dear Team, I am not satisfied with the product.",Complaint
+I want a refund for the damaged item. Please help me.,Complaint
+My payment was charged twice. Thank you.,Complaint
+Could you provide information about your pricing?,Enquiry
+"Hello, What are your available plans?",Enquiry
+"Dear Team, Can you tell me more about your services?",Enquiry
+I would like more information about your product. Please help me.,Enquiry
+What are your business hours? Thank you.,Enquiry
+How does this service work?,Enquiry
+"Hello, Do you provide international delivery?",Enquiry
+"Dear Team, What payment methods do you accept?",Enquiry
+When does the course start? Please help me.,Enquiry
+Can you tell me about the job position? Thank you.,Enquiry
+Could you provide information about your pricing?,Enquiry
+"Hello, What are your available plans?",Enquiry
+"Dear Team, Can you tell me more about your services?",Enquiry
+I would like more information about your product. Please help me.,Enquiry
+What are your business hours? Thank you.,Enquiry
+How does this service work?,Enquiry
+"Hello, Do you provide international delivery?",Enquiry
+"Dear Team, What payment methods do you accept?",Enquiry
+When does the course start? Please help me.,Enquiry
+Can you tell me about the job position? Thank you.,Enquiry
+Could you provide information about your pricing?,Enquiry
+"Hello, What are your available plans?",Enquiry
+"Dear Team, Can you tell me more about your services?",Enquiry
+I would like more information about your product. Please help me.,Enquiry
+What are your business hours? Thank you.,Enquiry
+How does this service work?,Enquiry
+"Hello, Do you provide international delivery?",Enquiry
+"Dear Team, What payment methods do you accept?",Enquiry
+When does the course start? Please help me.,Enquiry
+Can you tell me about the job position? Thank you.,Enquiry
+Could you provide information about your pricing?,Enquiry
+"Hello, What are your available plans?",Enquiry
+"Dear Team, Can you tell me more about your services?",Enquiry
+I would like more information about your product. Please help me.,Enquiry
+What are your business hours? Thank you.,Enquiry
+How does this service work?,Enquiry
+"Hello, Do you provide international delivery?",Enquiry
+"Dear Team, What payment methods do you accept?",Enquiry
+When does the course start? Please help me.,Enquiry
+Can you tell me about the job position? Thank you.,Enquiry
+Could you provide information about your pricing?,Enquiry
+"Hello, What are your available plans?",Enquiry
+"Dear Team, Can you tell me more about your services?",Enquiry
+I would like more information about your product. Please help me.,Enquiry
+What are your business hours? Thank you.,Enquiry
+How does this service work?,Enquiry
+"Hello, Do you provide international delivery?",Enquiry
+"Dear Team, What payment methods do you accept?",Enquiry
+When does the course start? Please help me.,Enquiry
+Can you tell me about the job position? Thank you.,Enquiry
+Please send me a copy of my invoice.,Request
+"Hello, I would like to change my email address.",Request
+"Dear Team, Please cancel my subscription.",Request
+Please update my account details. Please help me.,Request
+Please provide my transaction history. Thank you.,Request
+I would like to reset my password.,Request
+"Hello, Please schedule an appointment.",Request
+"Dear Team, Please send the required documents.",Request
+I would like to change my delivery address. Please help me.,Request
+Please activate my account. Thank you.,Request
+Please send me a copy of my invoice.,Request
+"Hello, I would like to change my email address.",Request
+"Dear Team, Please cancel my subscription.",Request
+Please update my account details. Please help me.,Request
+Please provide my transaction history. Thank you.,Request
+I would like to reset my password.,Request
+"Hello, Please schedule an appointment.",Request
+"Dear Team, Please send the required documents.",Request
+I would like to change my delivery address. Please help me.,Request
+Please activate my account. Thank you.,Request
+Please send me a copy of my invoice.,Request
+"Hello, I would like to change my email address.",Request
+"Dear Team, Please cancel my subscription.",Request
+Please update my account details. Please help me.,Request
+Please provide my transaction history. Thank you.,Request
+I would like to reset my password.,Request
+"Hello, Please schedule an appointment.",Request
+"Dear Team, Please send the required documents.",Request
+I would like to change my delivery address. Please help me.,Request
+Please activate my account. Thank you.,Request
+Please send me a copy of my invoice.,Request
+"Hello, I would like to change my email address.",Request
+"Dear Team, Please cancel my subscription.",Request
+Please update my account details. Please help me.,Request
+Please provide my transaction history. Thank you.,Request
+I would like to reset my password.,Request
+"Hello, Please schedule an appointment.",Request
+"Dear Team, Please send the required documents.",Request
+I would like to change my delivery address. Please help me.,Request
+Please activate my account. Thank you.,Request
+Please send me a copy of my invoice.,Request
+"Hello, I would like to change my email address.",Request
+"Dear Team, Please cancel my subscription.",Request
+Please update my account details. Please help me.,Request
+Please provide my transaction history. Thank you.,Request
+I would like to reset my password.,Request
+"Hello, Please schedule an appointment.",Request
+"Dear Team, Please send the required documents.",Request
+I would like to change my delivery address. Please help me.,Request
+Please activate my account. Thank you.,Request
+I really enjoyed using your service.,Feedback
+"Hello, Your support team was very helpful.",Feedback
+"Dear Team, I am happy with the quality of your product.",Feedback
+Thank you for the excellent service. Please help me.,Feedback
+The application is easy to use. Thank you.,Feedback
+I suggest improving the user interface.,Feedback
+"Hello, Overall, I am satisfied with my experience.",Feedback
+"Dear Team, The new features are very useful.",Feedback
+I appreciate the quick response. Please help me.,Feedback
+This has been a great experience. Thank you.,Feedback
+I really enjoyed using your service.,Feedback
+"Hello, Your support team was very helpful.",Feedback
+"Dear Team, I am happy with the quality of your product.",Feedback
+Thank you for the excellent service. Please help me.,Feedback
+The application is easy to use. Thank you.,Feedback
+I suggest improving the user interface.,Feedback
+"Hello, Overall, I am satisfied with my experience.",Feedback
+"Dear Team, The new features are very useful.",Feedback
+I appreciate the quick response. Please help me.,Feedback
+This has been a great experience. Thank you.,Feedback
+I really enjoyed using your service.,Feedback
+"Hello, Your support team was very helpful.",Feedback
+"Dear Team, I am happy with the quality of your product.",Feedback
+Thank you for the excellent service. Please help me.,Feedback
+The application is easy to use. Thank you.,Feedback
+I suggest improving the user interface.,Feedback
+"Hello, Overall, I am satisfied with my experience.",Feedback
+"Dear Team, The new features are very useful.",Feedback
+I appreciate the quick response. Please help me.,Feedback
+This has been a great experience. Thank you.,Feedback
+I really enjoyed using your service.,Feedback
+"Hello, Your support team was very helpful.",Feedback
+"Dear Team, I am happy with the quality of your product.",Feedback
+Thank you for the excellent service. Please help me.,Feedback
+The application is easy to use. Thank you.,Feedback
+I suggest improving the user interface.,Feedback
+"Hello, Overall, I am satisfied with my experience.",Feedback
+"Dear Team, The new features are very useful.",Feedback
+I appreciate the quick response. Please help me.,Feedback
+This has been a great experience. Thank you.,Feedback
+I really enjoyed using your service.,Feedback
+"Hello, Your support team was very helpful.",Feedback
+"Dear Team, I am happy with the quality of your product.",Feedback
+Thank you for the excellent service. Please help me.,Feedback
+The application is easy to use. Thank you.,Feedback
+I suggest improving the user interface.,Feedback
+"Hello, Overall, I am satisfied with my experience.",Feedback
+"Dear Team, The new features are very useful.",Feedback
+I appreciate the quick response. Please help me.,Feedback
+This has been a great experience. Thank you.,Feedback
+I am applying for the software developer position.,Application
+"Hello, Please consider my application for the marketing role.",Application
+"Dear Team, I would like to apply for the internship.",Application
+I am submitting my resume for the data analyst position. Please help me.,Application
+I am interested in the available job. Thank you.,Application
+Please find my CV attached for the developer position.,Application
+"Hello, I would like to submit my application for this role.",Application
+"Dear Team, I am applying for the customer support position.",Application
+I would like to be considered for the internship. Please help me.,Application
+Please review my resume for the available position. Thank you.,Application
+I am applying for the software developer position.,Application
+"Hello, Please consider my application for the marketing role.",Application
+"Dear Team, I would like to apply for the internship.",Application
+I am submitting my resume for the data analyst position. Please help me.,Application
+I am interested in the available job. Thank you.,Application
+Please find my CV attached for the developer position.,Application
+"Hello, I would like to submit my application for this role.",Application
+"Dear Team, I am applying for the customer support position.",Application
+I would like to be considered for the internship. Please help me.,Application
+Please review my resume for the available position. Thank you.,Application
+I am applying for the software developer position.,Application
+"Hello, Please consider my application for the marketing role.",Application
+"Dear Team, I would like to apply for the internship.",Application
+I am submitting my resume for the data analyst position. Please help me.,Application
+I am interested in the available job. Thank you.,Application
+Please find my CV attached for the developer position.,Application
+"Hello, I would like to submit my application for this role.",Application
+"Dear Team, I am applying for the customer support position.",Application
+I would like to be considered for the internship. Please help me.,Application
+Please review my resume for the available position. Thank you.,Application
+I am applying for the software developer position.,Application
+"Hello, Please consider my application for the marketing role.",Application
+"Dear Team, I would like to apply for the internship.",Application
+I am submitting my resume for the data analyst position. Please help me.,Application
+I am interested in the available job. Thank you.,Application
+Please find my CV attached for the developer position.,Application
+"Hello, I would like to submit my application for this role.",Application
+"Dear Team, I am applying for the customer support position.",Application
+I would like to be considered for the internship. Please help me.,Application
+Please review my resume for the available position. Thank you.,Application
+I am applying for the software developer position.,Application
+"Hello, Please consider my application for the marketing role.",Application
+"Dear Team, I would like to apply for the internship.",Application
+I am submitting my resume for the data analyst position. Please help me.,Application
+I am interested in the available job. Thank you.,Application
+Please find my CV attached for the developer position.,Application
+"Hello, I would like to submit my application for this role.",Application
+"Dear Team, I am applying for the customer support position.",Application
+I would like to be considered for the internship. Please help me.,Application
+Please review my resume for the available position. Thank you.,Application
+The meeting has been moved to Monday afternoon.,Other
+"Hello, I went to the store yesterday.",Other
+"Dear Team, Here is the information you requested.",Other
+I will be unavailable tomorrow. Please help me.,Other
+I wanted to share this information with your team. Thank you.,Other
+The meeting has been rescheduled for next week.,Other
+"Hello, I have attached the document for your reference.",Other
+"Dear Team, This message is regarding our previous conversation.",Other
+I will contact you again next week. Please help me.,Other
+Thank you for your time and consideration. Thank you.,Other
+The meeting has been moved to Monday afternoon.,Other
+"Hello, I went to the store yesterday.",Other
+"Dear Team, Here is the information you requested.",Other
+I will be unavailable tomorrow. Please help me.,Other
+I wanted to share this information with your team. Thank you.,Other
+The meeting has been rescheduled for next week.,Other
+"Hello, I have attached the document for your reference.",Other
+"Dear Team, This message is regarding our previous conversation.",Other
+I will contact you again next week. Please help me.,Other
+Thank you for your time and consideration. Thank you.,Other
+The meeting has been moved to Monday afternoon.,Other
+"Hello, I went to the store yesterday.",Other
+"Dear Team, Here is the information you requested.",Other
+I will be unavailable tomorrow. Please help me.,Other
+I wanted to share this information with your team. Thank you.,Other
+The meeting has been rescheduled for next week.,Other
+"Hello, I have attached the document for your reference.",Other
+"Dear Team, This message is regarding our previous conversation.",Other
+I will contact you again next week. Please help me.,Other
+Thank you for your time and consideration. Thank you.,Other
+The meeting has been moved to Monday afternoon.,Other
+"Hello, I went to the store yesterday.",Other
+"Dear Team, Here is the information you requested.",Other
+I will be unavailable tomorrow. Please help me.,Other
+I wanted to share this information with your team. Thank you.,Other
+The meeting has been rescheduled for next week.,Other
+"Hello, I have attached the document for your reference.",Other
+"Dear Team, This message is regarding our previous conversation.",Other
+I will contact you again next week. Please help me.,Other
+Thank you for your time and consideration. Thank you.,Other
+The meeting has been moved to Monday afternoon.,Other
+"Hello, I went to the store yesterday.",Other
+"Dear Team, Here is the information you requested.",Other
+I will be unavailable tomorrow. Please help me.,Other
+I wanted to share this information with your team. Thank you.,Other
+The meeting has been rescheduled for next week.,Other
+"Hello, I have attached the document for your reference.",Other
+"Dear Team, This message is regarding our previous conversation.",Other
+I will contact you again next week. Please help me.,Other
+Thank you for your time and consideration. Thank you.,Other
